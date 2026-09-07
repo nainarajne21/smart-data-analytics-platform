@@ -291,5 +291,5 @@ Interested in **Data Analytics, Artificial Intelligence, and Data-driven applica
 **Completed — Portfolio Ready**
 
 The current version focuses on providing a practical, reusable analytics workflow for structured CSV and Excel datasets.
-smart-data-analytics-platform ∙ main ∙ app.py
+
 
