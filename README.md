@@ -6,7 +6,7 @@ The application dynamically detects column types, identifies common business met
 
 ## 🚀 Live Demo
 
-**Coming soon**
+project link= smart-data-analytics-platform ∙ main ∙ app.py
 
 ## 📌 Project Overview
 
